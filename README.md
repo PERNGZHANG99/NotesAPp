@@ -29,6 +29,7 @@ $ cd NotesApp
 
 
 To run:
+if use physical devices, Download Expo go on mobile first
 
 ```bash
 # Android
@@ -37,14 +38,6 @@ $ npm install --legacy-peer-deps
 
 # Start project
 $ npm run android
-
-
-# IOS
-# Install dependencies
-yarn install --ignore-engines
-
-# Start project
-$ npm run ios
 
 ```
 
