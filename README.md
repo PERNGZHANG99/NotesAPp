@@ -38,6 +38,9 @@ $ npm install --legacy-peer-deps
 
 # Start project
 $ npm run android
+or
+$ npm start
+$ a
 
 ```
 
