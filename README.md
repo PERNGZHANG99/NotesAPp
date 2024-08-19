@@ -47,6 +47,7 @@ This app allows users to create, manage, and categorize their notes efficiently.
 
 ## 🌟 Features
 - [x] Create, edit, and delete notes.
+- [x] Create and delete categories. 
 - [x] Organize notes by categories.
 - [x] View notes in expandable/collapsible categories.
 - [x] Persistent storage using AsyncStorage.
