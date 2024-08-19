@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
-    <img style="width: 200px;" src="https://github.com/PERNGZHANG99/NotesApp/blob/main/homePage.jpg?raw=true" alt="homePage"/>
-    <img style="width: 200px;" src="https://github.com/PERNGZHANG99/NotesApp/blob/main/newNotePage.jpg?raw=true" alt="newNote"/>
-    <img style="width: 200px;" src="https://github.com/PERNGZHANG99/NotesApp/blob/main/summaryPage.jpg?raw=true" alt="summaryPage"/>
-    <img style="width: 200px;" src="https://github.com/PERNGZHANG99/NotesApp/blob/main/viewNotePage.jpg?raw=true" alt="viewNotePage"/>
-    <img style="width: 200px;" src="https://github.com/PERNGZHANG99/NotesApp/blob/main/settingPage.jpg?raw=true" alt="settingPage"/>
-    <img style="width: 200px;" src="https://github.com/PERNGZHANG99/NotesApp/blob/main/categoriesManagementPage.jpg?raw=true" alt="categoriesManagementPage"/>
+    <img style="width: 200px;" src="https://github.com/PERNGZHANG99/NotesApp/blob/main/img/homePage.jpg?raw=true" alt="homePage"/>
+    <img style="width: 200px;" src="https://github.com/PERNGZHANG99/NotesApp/blob/main/img/newNotePage.jpg?raw=true" alt="newNote"/>
+    <img style="width: 200px;" src="https://github.com/PERNGZHANG99/NotesApp/blob/main/img/summaryPage.jpg?raw=true" alt="summaryPage"/>
+    <img style="width: 200px;" src="https://github.com/PERNGZHANG99/NotesApp/blob/main/img/viewNotePage.jpg?raw=true" alt="viewNotePage"/>
+    <img style="width: 200px;" src="https://github.com/PERNGZHANG99/NotesApp/blob/main/img/settingPage.jpg?raw=true" alt="settingPage"/>
+    <img style="width: 200px;" src="https://github.com/PERNGZHANG99/NotesApp/blob/main/img/categoriesManagementPage.jpg?raw=true" alt="categoriesManagementPage"/>
 </div>
 
 ## 🧪 Technologies
